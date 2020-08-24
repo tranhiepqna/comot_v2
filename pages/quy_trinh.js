@@ -46,7 +46,7 @@ export default function Procedure(){
                         <img src="/images/dong_goi.webp" className="h-screen/3 w-full sm:h-screen/2 object-cover" alt="quy trình đóng gói"/>
                     </div>
                     <div className="flex-1 text-justify pl-3 sm:pl-3">
-                        <p className="text-base sm:text-2xl">Bao bì được bột ngũ cốc Cô Một được thiết kế riêng với kiểu dáng hiện đại sang trọng, bên trong bao bì xử dụng một lớp tráng bạc giúp cho sản phẩm tránh bị ảnh hưởng từ độ ẩm của môi trường bên ngoài. Bao bì được đóng góp kín đảm bảo chất lượng và dễ dàng bảo quản.</p>
+                        <p className="text-base sm:text-2xl">Bao bì Bột ngũ cốc Cô Một được thiết kế riêng với kiểu dáng hiện đại sang trọng, bên trong bao bì xử dụng một lớp tráng bạc giúp cho sản phẩm tránh bị ảnh hưởng từ độ ẩm của môi trường bên ngoài. Bao bì đựng đóng gói kín đảm bảo chất lượng và dễ dàng bảo quản.</p>
                     </div>
                 </div>
                 <div className="flex flex-row mt-2">
