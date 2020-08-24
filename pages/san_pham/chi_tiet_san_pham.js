@@ -1,6 +1,6 @@
 import Layout from '../../components/Layout'
 import { useRouter } from 'next/router'
-import SEO from '../components/SEO'
+import SEO from '../../components/SEO'
 export default function ProductDetail(){
     const router = useRouter()
     const sanpham = router.query.sanpham
