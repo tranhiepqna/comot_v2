@@ -4,7 +4,7 @@ export default function Story(){
             <h1 className="text-center text-xl sm:text-3xl font-bold">Câu chuyện sản phẩm</h1>
             <div className="flex pt-2 flex-col sm:flex-row">
                 <div className="flex-1">
-                  <img src="../static/images/story.webp" alt="Hình ảnh thương hiệu Cô Một"/>
+                  <img src="/images/story.webp" alt="Hình ảnh thương hiệu Cô Một"/>
                 </div>
                 <div className="flex-1 sm:pl-5 pt-6 sm:pt-0">
                  <p className="text-base sm:text-lg text-justify">Trong cuộc sống hiện tại, có quá nhiều sự cạnh tranh giữa các công ty, cửa hàng. Họ dường như đang chạy đua theo lợi nhuận mà dần bỏ quên đi chất lượng của sản phẩm. Và các sản phẩm thuộc lĩnh vực thực phẩm cũng không phải ngoại lệ. Các mặt hàng thực phẩm ngày càng phát sinh ra nhiều điều nguy hại. Thịt heo có nhiều chất tạo nạc, thịt bò bị làm giả, rau củ dư thừa lượng hóa chất bảo vệ thực vật,…</p>

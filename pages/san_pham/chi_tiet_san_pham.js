@@ -12,7 +12,7 @@ export default function ProductDetail(){
                 <p className="font-bold"><a href="/" >Trang chủ</a> / <a href="/san_pham">Sản phẩm</a></p>
                 <div className="flex flex-col sm:flex-row">
                     <div className="flex-1">
-                        <img src="../../static/images/product.webp" className="w-full"/>
+                        <img src="/images/product.webp" className="w-full"/>
                     </div>
                     <div className="flex-1 ml-2">
                         <div className="font-bold text-xl sm:text-2xl mb-2">{`Bột ngũ cốc Cô Một ${sanpham} loại hạt`}</div>

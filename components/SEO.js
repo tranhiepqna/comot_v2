@@ -14,8 +14,8 @@ export default function SEO({ title, description = "" }) {
         property="og:description"
         content={description}
       />
-      <link rel="icon" type="image/png" href="/static/favicon.ico" />
-      <link rel="apple-touch-icon"  href="/static/favicon.ico" />
+      <link rel="icon" type="image/png" href="/favicon.ico" />
+      <link rel="apple-touch-icon"  href="/favicon.ico" />
     </Head>
   );
 }

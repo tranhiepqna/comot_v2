@@ -7,7 +7,7 @@ export default function Event(){
     <Layout>
         <SEO title="Bột ngũ cốc Cô Một" description="Liên hệ bột ngũ cốc Cô Một"/>
         <div className="mt-16"/>
-        <Splash src="../static/images/contact.webp" alt="Hình ảnh thương hiệu Cô Một" mode="object-cover"/>
+        <Splash src="/images/contact.webp" alt="Hình ảnh thương hiệu Cô Một" mode="object-cover"/>
         <section className="lg:container lg:mx-auto shadow p-2 sm:p-6 mt-10 sm:mt-20 mb-32 m-2 flex flex-col pb-24">
             <h1 className="text-center text-4xl font-bold">Liên hệ</h1>
             <p className="pt-2 pb-2"><span className="font-bold">Facebook:</span> <a className="text-blue-600" href="https://www.facebook.com/botngucoccomot">https://www.facebook.com/botngucoccomot</a></p>

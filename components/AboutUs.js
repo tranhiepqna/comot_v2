@@ -4,7 +4,7 @@ export default function AboutUs(){
             <h1 className="text-center text-xl sm:text-3xl font-bold">Giới thiệu</h1>
             <div className="flex pt-2 lg:flex-row flex-col">
                 <div className="flex-1">
-                  <img src="../static/images/aboutus.webp" alt="Hình ảnh thương hiệu Cô Một"/>
+                  <img src="/images/aboutus.webp" alt="Hình ảnh thương hiệu Cô Một"/>
                 </div>
                 <div className="flex-1 sm:pl-5 pt-6 sm:pt-0">
                  <p className="text-base sm:text-lg text-justify">  Bột ngũ cốc Cô Một hình thành trên cơ sở cách chế biến ngũ cốc truyền thống trong dân gian Quảng Nam. Ngày xưa ông cha ta thường chế biến các loại bột như bột đậu xanh, bột gạo lứt, bột gạo tẻ, bột gạo nếp bằng cách rang vàng thơm giòn rồi giả nhỏ bằng cối đá, rây thành bột mịn dùng để bồi bổ sức khỏe.</p>

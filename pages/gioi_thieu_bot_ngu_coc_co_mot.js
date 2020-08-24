@@ -6,7 +6,7 @@ export default function AboutDetail(){
         <Layout>
             <SEO title="Bột ngũ cốc Cô Một" description="Giới thiệu bột ngũ cốc Cô Một"/>
             <div className="mt-16"/>
-            <Splash src="../static/images/aboutus.webp" alt="Hình ảnh thương hiệu Cô Một" name="Giới thiệu"/>
+            <Splash src="/images/aboutus.webp" alt="Hình ảnh thương hiệu Cô Một" name="Giới thiệu"/>
            <section className="lg:container lg:mx-auto shadow p-2 sm:p-6 mb-20">
                 <p className="font-bold"><a href="/" >Trang chủ</a> / <a href="/gioi_thieu_bot_ngu_coc_co_mot">Giới thiệu</a></p>
                 <h1 className="text-center text-4xl font-bold">Giới Thiệu</h1>

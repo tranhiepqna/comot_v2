@@ -37,7 +37,7 @@ export default function Header() {
             <div className="flex-1 flex justify-between items-center">
                 <a href="/"> 
                     <img
-                        src="../../static/images/logo.webp"
+                        src="/images/logo.webp"
                         className="h-16 w-48"
                         alt="Bột ngũ cốc Cô Một"
                     />

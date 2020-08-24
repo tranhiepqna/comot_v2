@@ -2,7 +2,7 @@ export default function Hero (){
     return (
         <div>
             <img   
-                src="../../static/images/hero.webp"
+                src="/images/hero.webp"
                 className="h-screen w-screen"
                 alt="Hero website comot.vn" />
                 <div className="absolute top-0 h-screen bg-black bg-opacity-75 flex justify-center w-screen">
