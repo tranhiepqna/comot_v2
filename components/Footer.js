@@ -14,7 +14,7 @@ export default function Footer(){
                 <div className="flex-1 align-top">
                     <p className="text-base sm:text-3xl font-bold">Liên hệ</p>
                     <div className="flex flex-row pt-2">
-                    <a className="hover:text-secondary pr-6"  href="https://www.facebook.com/comot.vn" target="__blank" rel="Truy cập vào trang của bột ngũ cốc Cô Một trên Facebook"
+                    <a className="hover:text-secondary pr-6"  href="https://www.facebook.com/botngucoccomot" target="__blank" rel="Truy cập vào trang của bột ngũ cốc Cô Một trên Facebook"
                   rel="noreferrer">
                      <i className="fab fa-facebook-square fa-2x"></i>
                     </a>
