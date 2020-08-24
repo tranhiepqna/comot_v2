@@ -52,7 +52,7 @@ export default function Event(){
             <div className="flex flex-col sm:flex-row  mt-3">
                 <div className="flex-1 mr-2">
                     <img src="/images/che_van.webp" alt="Bột ngũ cốc Cô Một tại Hội chợ xúc tiến thương mại định hướng xuất khẩu nông - thuỷ sản Đồng bằng sông Cửu Long 2019" className="h-screen/2 w-full object-contain"/>
-                    <p className="pt-2 text-center text-sm">Bột ngũ cốc Cô Một tại cửa hàng Ocop Cao chè Vằng Miền Trung (xã Bình Phú - Thăng Bình - Quảng Nam)</p>
+                    <p className="pt-2 text-center text-sm">Bột Ngũ cốc Cô Một được bày bán tại CỬA HÀNG OCOP HUYỆN THĂNG BÌNH Thuộc Cơ sở Cao chè vằng Miền Trung. Xã Bình Phú , Thăng Bình Quảng Nam.</p>
                 </div>
                 <div className="flex-1 ml-2">
                  
