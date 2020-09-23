@@ -8,7 +8,7 @@ export default function Event(){
         <div className="mt-16"/>
         <section className="lg:container lg:mx-auto shadow p-2 sm:p-6 mt-10 mb-20 m-2 flex flex-col justify-center">
             <h1 className="text-center text-4xl font-bold">Hoạt động phân phối & tiêu thụ sản phẩm</h1>
-            <p className="text-base sm:text-2xl text-center">Bột ngũ cốc Cô Một dần dần tạo được thương hiệu riêng cho mình. Có mặt ở nhiều đại lý trên địa bàn toàn tỉnh và tham gia các sự kiện, hội chợ trong và ngoài tỉnh.</p>
+            <p className="text-base sm:text-2xl text-center">Bột ngũ cốc Cô Một dần dần tạo được thương hiệu riêng cho mình. Có mặt ở nhiều đại lý trên địa bàn trong và ngoài tỉnh, đồng thời tham gia các sự kiện, hội chợ ở nhiều địa phương trên toàn quốc.</p>
             <div className="flex flex-col sm:flex-row mt-3">
                 <div className="flex-1">
                     <img src="/images/hoa_vang.webp" alt="Tham gia hội chợ Hoà Vang Đà Nẵng 2020" className="h-screen/2 w-full object-contain"/>
